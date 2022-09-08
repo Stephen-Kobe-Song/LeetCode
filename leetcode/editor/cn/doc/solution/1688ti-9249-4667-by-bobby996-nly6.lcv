@@ -1,0 +1,29 @@
+### 解题思路
+
+注意题目描述的是连续重复。
+所以我们用StringBuilder拼接word
+首先判断sequence是否包含word
+如果包含则count++，然后sb再拼接一个word。
+直至不包含为止退出循环。
+count既是结果
+
+![image.png](https://pic.leetcode-cn.com/1609378181-QAQExg-image.png)
+
+### 代码
+
+* java
+
+```java
+class Solution {
+    public int maxRepeating(String sequence, String word) {
+        int count = 0;
+        StringBuilder sb = new StringBuilder(word);
+        while(sequence.contains(sb)) {
+            count++;
+            sb.append(word);
+        }
+        return count;
+    }
+}
+```
+

@@ -1,0 +1,57 @@
+### 解题思路
+
+此处撰写解题思路
+
+### 代码
+
+* cpp
+
+```cpp
+class Solution {
+public:
+    int maxRepeating(string sequence, string word) {
+        int ans=0,k=0,  index=0,ed=word.size()-1;
+        int i=0;
+        int left=i+1;
+        for(;i<sequence.size();i++){
+            if(sequence[i]==word[index]){
+                if(index==ed){
+                    k++;
+                    index=0;
+                }
+                else{
+                    index++;
+                }
+            }
+            else{
+                ans=max(ans,k); //[注意]是不是上面每个分支都经过这条更新答案语句 如果上面某条语句不经过这里那它是否对答案产生影响
+                k=0;
+                index=0;        //[注意] 特别是if分支中每个变量是否在某分支需要维护一定要想好
+                i=left;       //i=left-1; left=i+1;这样写只要第二次进入这两行语句就会一直死循环 换句话匹配中不能有两次匹配错误
+                left=i+1;
+
+                i--;    //因为for中有个i++这里是保证每次重新开始都是从上一个标记的left开始
+            }
+        }
+
+        //"a" "a"如果前面的测试用例那上面ans=max(ans,k);就不会运行进入不了能更改我们最后return的变量的分支
+        //[注意]在返回答案时 一定要考虑 是不是上面程序语句每条产生的答案结果 我们都能在最后更新到且return给函数
+        ans=max(ans,k);
+        return ans;
+    }
+};
+
+/*测试用例
+"ababc"
+"ab"
+"ababc"
+"ba"
+"ababc"
+"ac"
+"a"
+"a"
+"aaabaaaabaaabaaaabaaaabaaaabaaaaba"
+"aaaba"
+*/
+```
+

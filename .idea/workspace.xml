@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0a221d1-3306-4aa9-aa49-e3d855605f58" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="297HcQR1udQDcclPitGSi5nyaBK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/LeetCode" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.splitter.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LeetCode\src\LeetCode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.sort">
+    <configuration name="HJ85" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HUAWEI.HJ85" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HUAWEI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ86" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HUAWEI.HJ86" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HUAWEI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HUAWEI.HJ91" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HUAWEI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.sort" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.tmp" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sort" />
+        <item itemvalue="Application.tmp" />
+        <item itemvalue="Application.HJ91" />
+        <item itemvalue="Application.HJ86" />
+        <item itemvalue="Application.HJ85" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a221d1-3306-4aa9-aa49-e3d855605f58" name="Changes" comment="" />
+      <created>1652457284176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652457284176</updated>
+      <workItem from="1652457286682" duration="7310000" />
+      <workItem from="1652465461020" duration="734000" />
+      <workItem from="1652466360954" duration="1747000" />
+      <workItem from="1652498904204" duration="4503000" />
+      <workItem from="1652590579713" duration="2000" />
+      <workItem from="1652680277743" duration="9271000" />
+      <workItem from="1652788371765" duration="3827000" />
+      <workItem from="1652809502407" duration="46000" />
+      <workItem from="1652810905626" duration="216000" />
+      <workItem from="1652863451078" duration="14026000" />
+      <workItem from="1652945278030" duration="8049000" />
+      <workItem from="1653026657493" duration="2913000" />
+      <workItem from="1653032861296" duration="803000" />
+      <workItem from="1653106420385" duration="1901000" />
+      <workItem from="1653116521974" duration="3899000" />
+      <workItem from="1653223149151" duration="3667000" />
+      <workItem from="1653227658951" duration="11000" />
+      <workItem from="1653297491852" duration="4668000" />
+      <workItem from="1653316802866" duration="487000" />
+      <workItem from="1653375746332" duration="13138000" />
+      <workItem from="1653409673229" duration="42000" />
+      <workItem from="1653461958205" duration="7831000" />
+      <workItem from="1653498703837" duration="532000" />
+      <workItem from="1653534999297" duration="2377000" />
+      <workItem from="1653552118027" duration="738000" />
+      <workItem from="1653573708950" duration="8190000" />
+      <workItem from="1653640727335" duration="15000" />
+      <workItem from="1653677722720" duration="1097000" />
+      <workItem from="1653707503149" duration="651000" />
+      <workItem from="1653757718260" duration="4310000" />
+      <workItem from="1653827449742" duration="465000" />
+      <workItem from="1653987109797" duration="3935000" />
+      <workItem from="1654011336925" duration="8000" />
+      <workItem from="1654166360429" duration="2698000" />
+      <workItem from="1654268979181" duration="12000" />
+      <workItem from="1656596922116" duration="2057000" />
+      <workItem from="1656772649435" duration="3036000" />
+      <workItem from="1657117645376" duration="12000" />
+      <workItem from="1657201406059" duration="3189000" />
+      <workItem from="1657266365399" duration="22000" />
+      <workItem from="1657947805224" duration="2453000" />
+      <workItem from="1658054826548" duration="337000" />
+      <workItem from="1658138571029" duration="171000" />
+      <workItem from="1658194891187" duration="1712000" />
+      <workItem from="1658215753237" duration="6000" />
+      <workItem from="1659532528326" duration="4313000" />
+      <workItem from="1659699525312" duration="3893000" />
+      <workItem from="1659752190238" duration="4118000" />
+      <workItem from="1659785412933" duration="3149000" />
+      <workItem from="1659939327621" duration="4578000" />
+      <workItem from="1660113412213" duration="7492000" />
+      <workItem from="1660134949303" duration="4519000" />
+      <workItem from="1660184178062" duration="1363000" />
+      <workItem from="1661752418151" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/testReader.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
